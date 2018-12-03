@@ -1,0 +1,25 @@
+body{
+ background-color:lightgray;
+}
+
+h1{
+ color:orange;
+}
+
+table{
+ border-color:black;
+}
+
+td{
+
+  border-style: solid;
+}
+
+th{
+
+  border-style: solid;
+}
+
+.head {
+  color:green
+}
